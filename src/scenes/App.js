@@ -12,13 +12,14 @@ const Header = () => (
       <img src={logo} className="App-logo" alt="logo" />
       <h2>ParNurZeal</h2>
     </div>
-    <nav>
+    <div className="App-navbar">
       <ul>
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/projects'>Projects</Link></li>
         <li><Link to='/photos'>Photos</Link></li>
+        <li><a href="https://medium.com/@parnurzeal" target="_blank">Blog</a></li>
       </ul>
-    </nav>
+    </div>
   </header>
 )
 

@@ -3,7 +3,7 @@ import './styles.css';
 
 const Projects = () => (
   <div>
-    Projects
+    Coming soon...
   </div>
 );
 

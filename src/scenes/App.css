@@ -14,6 +14,21 @@
   color: white;
 }
 
+.App-navbar {
+	width: 100%;
+	margin: 0 auto;
+}
+.App-navbar li {
+	display: inline;
+}
+.App-navbar a {
+	padding: 14px 16px;
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	font-size: 17px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

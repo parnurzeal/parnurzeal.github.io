@@ -3,7 +3,7 @@ import './styles.css';
 
 const Photos = () => (
   <div>
-    Photos
+    Coming soon...
   </div>
 );
 
