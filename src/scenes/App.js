@@ -17,7 +17,7 @@ const Header = () => (
         <li><Link to='/'>Home</Link></li>
         <li><Link to='/projects'>Projects</Link></li>
         <li><Link to='/photos'>Photos</Link></li>
-        <li><a href="https://medium.com/@parnurzeal" target="_blank">Blog</a></li>
+        <li><a href="https://medium.com/@parnurzeal" target="_blank" rel="noopener noreferrer">Blog</a></li>
       </ul>
     </div>
   </header>

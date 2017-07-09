@@ -18,6 +18,9 @@
 	width: 100%;
 	margin: 0 auto;
 }
+.App-navbar ul {
+  padding: 0;
+}
 .App-navbar li {
 	display: inline;
 }
